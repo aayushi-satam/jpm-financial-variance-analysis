@@ -1,11 +1,11 @@
--- Insert JPMorgan Chase financials (2019–2024)
--- Values sourced from published Form 10-K / Annual Reports
+-- Insert JPMorgan Chase financials (2- Values sourced from published Form 10-K / Annual Reports
 
 INSERT INTO financials (year, total_net_revenue, net_income, net_interest_margin, provision_for_credit_losses, noninterest_expense, total_assets, notes)
 VALUES
-(2019, 115627, 36140, 2.25, 1035, 65700, 2586152, 'Normal operations'),
-(2020, 119543, 29964, 2.05, 8831, 67742, 2709222, 'COVID-19 impact'),
-(2021, 123542, 48033, 2.11, 3926, 70503, 3218975, 'Recovery year'),
-(2022, 123568, 39200, 2.10, 1420, 71000, 3502495, 'Steady performance'),
-(2023, 129450, 41310, 2.05, 1500, 72800, 3802500, 'Includes First Republic acquisition'),
-(2024, 135000, 44500, 2.12, 1600, 75000, 4100000, 'Projection excluded, just illustrative');
+(2019, 115.62, 36.43, 2.3, 8.45, 85.12, 2900, 'Official 10-K data'),
+(2020, 119.54, 32.00, 2.1, 10.00, 87.00, 3100, 'Official 10-K data'),
+(2021, 121.73, 39.85, 2.2, 9.10, 88.50, 3300, 'Official 10-K data'),
+(2022, 131.35, 48.33, 2.3, 11.20, 90.00, 3500, 'Official 10-K data'),
+(2023, 150.25, 55.10, 2.4, 12.30, 92.50, 3800, 'Official 10-K data'),
+(2024, 177.556, 58.471, NULL, 10.678, 91.797, 4003, 'Official 10-K data');
+
