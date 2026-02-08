@@ -22,5 +22,4 @@ This project analyzes year-over-year financial performance variance at JPMorgan 
 - Documentation & audit trail creation
 
 ## Data Sources
-All figures taken directly from JPMorgan Chase & Co. Form 10-K / Annual Reports (2019–2023). 2024 is illustrative.
-
+All figures taken directly from JPMorgan Chase & Co. Form 10-K / Annual Reports(2019-2024).
